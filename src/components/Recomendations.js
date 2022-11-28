@@ -64,7 +64,7 @@ function Recomendations ({ clearData, data, sourcePlaylist, targetPlaylist }) {
     })
 
     datasetArray.push(  {
-      label: 'Source Playlost Features',
+      label: 'Source Playlist Features',
       backgroundColor: 'rgba(179,181,198,0.2)',
       borderColor: 'rgba(179,181,198,1)',
       pointBackgroundColor: 'rgba(179,181,198,1)',
@@ -87,7 +87,7 @@ function Recomendations ({ clearData, data, sourcePlaylist, targetPlaylist }) {
     }
     datasetArray.push(        {
       label: 'Recommended Playlist Features',
-      backgroundColor: 'rgba(160,99,132,0.2)',
+      backgroundColor: 'rgba(247,247,13,0.2)',
       borderColor: 'rgba(1405,99,132,1)',
       pointBackgroundColor: 'rgba(215,99,132,1)',
       pointBorderColor: '#fff',
